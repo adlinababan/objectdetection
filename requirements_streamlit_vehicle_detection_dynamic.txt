@@ -1,7 +1,6 @@
 streamlit
-ultralytics
 opencv-python-headless
-av
 numpy
-pandas
-torch
+ultralytics
+pillow
+av
